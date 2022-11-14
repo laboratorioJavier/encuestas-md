@@ -1,2 +1,3 @@
-# encuestas-md
-Repositorio de encuestas de prueba 
+# encuestas-pbm
+
+Para realizar encuestas de nivel de madurez digital 

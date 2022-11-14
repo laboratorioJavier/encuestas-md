@@ -1,0 +1,6 @@
+applications:
+  - name: todo-frenos
+    buildpacks:
+      - php_buildpack
+    memory: 128M
+    instances: 1
